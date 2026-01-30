@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (lib\\main.dart)",
+            "type": "dart",
+            "request": "launch",
+            "cwd": "maple_lingo_application",
+            "program": "lib\\main.dart"
+        }
+    ]
+}
