@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "480595638350",
+    "firebase_url": "https://maple-lingo-ae7d1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "maple-lingo-ae7d1",
+    "storage_bucket": "maple-lingo-ae7d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480595638350:android:4da7d7cef47feae46beb1f",
+        "android_client_info": {
+          "package_name": "com.example.maple_lingo_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-2zuuPtx_Skq64h6ZHEYbnRrpOh_Cv1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
